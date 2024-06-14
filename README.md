@@ -2,11 +2,19 @@
 Implement Caesar Cipher
 
 # Caesar Cipher Python Program
+This Python program enables you to encode and decode messages using the traditional Caesar cipher technique. The Caesar cipher is a straightforward substitution cipher that shifts each letter in the original message by a predetermined number of positions along the alphabet.
 
-This Python program can encrypt and decrypt text using the Caesar Cipher algorithm.
+# FEATURES -
 
-## Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/caesar-cipher.git
+- **Encryption**: Secure your messages by shifting letters with a given value.
+- **Decryption**: Retrieve the original messages from Caesar cipher encrypted text using the appropriate shift value.
+- **Support for Alphabetic Characters**: Handles both uppercase and lowercase letters, keeping non-alphabet characters unchanged.
+- **User-Friendly Interface**: Features an intuitive command-line interface for convenient use.
+
+
+# How to Use -
+1. Clone this repository to your local machine.main.py
+2. Run the Python script:
+python caesar_cipher.py
+
 
